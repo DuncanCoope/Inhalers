@@ -1,5 +1,7 @@
 Prescription Inhalers Data
 
+These files have been created for the purpose of identifying the number of inhalers prescribed by NHS primary care in a given geographical region and estimating the CO2 equivalent footprint produced by these prescriptions.
+
 Files:
 Inhaler types.xlsx - This excel data is a list of non-salbutamol MDI and DPI inhalers extracted from OpenPrescribing.net
 
